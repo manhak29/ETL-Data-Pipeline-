@@ -1,0 +1,29 @@
+id,name,age,country,email,join_date,purchase_amount,active
+1,John Doe,25,USA,johndoe@example.com,2022-01-15,500.50,True
+2,Jane Smith,17,Canada,janesmith@example.com,2021-11-20,200.00,False
+3,Alex Johnson,30,UK,alexjohnson@example.com,2023-03-10,1000.75,True
+4,Emily Davis,22,Australia,emilydavis@example.com,2021-08-12,0.00,False
+5,Chris Lee,45,USA,chrislee@example.com,2020-06-25,750.00,True
+6,Anna Kim,,South Korea,annakim@example.com,2023-05-01,300.30,True
+7,Michael Brown,18,Canada,michaelbrown@example.com,2019-02-13,50.00,False
+8,Lily Evans,29,UK,lilyevans@example.com,2021-12-07,600.40,True
+9,Peter Parker,35,USA,peterparker@example.com,2020-10-30,900.10,False
+10,Nina Chang,28,South Korea,ninachang@example.com,2023-04-22,1200.00,True
+11,Susan Miller,19,Canada,susanmiller@example.com,2018-07-19,250.20,True
+12,Tom Hanks,40,USA,tomhanks@example.com,2022-11-15,500.00,False
+13,Monica Bellucci,50,Italy,monicab@example.com,2021-05-11,1100.90,True
+14,David Beckham,46,UK,davidb@example.com,2020-03-20,1300.45,False
+15,Lisa Kudrow,27,USA,lisak@example.com,2019-08-25,750.50,True
+16,Clark Kent,23,Canada,clarkk@example.com,2022-02-14,425.35,True
+17,Mary Watson,33,Australia,marywatson@example.com,2023-06-01,80.00,True
+18,Hermione Granger,24,UK,hermioneg@example.com,2020-11-18,660.15,True
+19,Ron Weasley,21,UK,ronweasley@example.com,2023-07-05,0.00,False
+20,Sarah Connor,35,USA,sarahconnor@example.com,2023-02-27,1400.90,True
+21,John Wick,43,USA,johnwick@example.com,2019-06-12,300.40,False
+22,Tony Stark,50,USA,tonystark@example.com,2021-09-09,1000.10,True
+23,Bruce Wayne,48,USA,brucewayne@example.com,2022-10-17,2500.80,True
+24,Diana Prince,27,Greece,dianap@example.com,2023-01-09,0.00,False
+25,Steve Rogers,38,USA,steverogers@example.com,2020-12-24,800.50,True
+26,Natasha Romanoff,32,Russia,natashar@example.com,2021-07-13,0.00,True
+27,Thor Odinson,1500,Norway,thorodinson@example.com,2018-01-01,1800.00,True
+28,Loki Laufeyson,1050,Norway,lokilaufeyson@example.com,2019-03-04,0.00,False
